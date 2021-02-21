@@ -4,17 +4,15 @@ devdb
 An example Django app I made to explain what the Django ORM is, and what
 the heck a migration really is.
 
-See this video: **TODO**
+Watch me build this app here: https://www.youtube.com/watch?v=26bvrkNACyI
 
 Setup
 -----
 
-You will need:
-
- - Python 3.8+
+You will need **Python 3.8+**.
 
  1. Clone this repo
- 2. Create a virtual environment and activate it.
+ 2. Create a _virtual environment_ and then activate it:
 
 ```sh
 python3 -m venv .venv
@@ -51,7 +49,7 @@ python3 manage.py runserver
 
 You can now visit the site at <http://localhost:8000/>
 
-Visit the admin at <http://localhost:8000/admin>
+Visit the admin at <http://localhost:8000/admin/>
 
 License
 -------
