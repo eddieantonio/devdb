@@ -1,0 +1,9 @@
+# Python stuff
+__pycache__/
+.venv/
+
+# Databases
+db.sqlite3
+
+# macOS stuff
+.DS_Store
