@@ -16,14 +16,16 @@
             <table>
                 <thead>
                     <tr>
-                        <th>Name</th>
+                        <th>First name</th>
+                        <th>Last name</th>
                         <th>Date</th>
                     </tr>
                 </thead>
                 <tbody>
                 {% for dev in developers %}
                     <tr>
-                        <td>{{ dev.name }}</td>
+                        <td>{{ dev.first_name }}</td>
+                        <td>{{ dev.last_name }}</td>
                         <td>{{ dev.joined }}</td>
                     </tr>
                 {% endfor %}
