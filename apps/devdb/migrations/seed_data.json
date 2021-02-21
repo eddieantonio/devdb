@@ -1,0 +1,56 @@
+[
+  {
+    "model": "devdb.developer",
+    "pk": 1,
+    "fields": {
+      "first_name": "Lisa",
+      "last_name": "Roach",
+      "joined": "2018-09-14"
+    }
+  },
+  {
+    "model": "devdb.developer",
+    "pk": 2,
+    "fields": {
+      "first_name": "Mark",
+      "last_name": "Shannon",
+      "joined": "2018-05-15"
+    }
+  },
+  {
+    "model": "devdb.developer",
+    "pk": 3,
+    "fields": {
+      "first_name": "Guido",
+      "last_name": "van Rossum",
+      "joined": "1989-12-25"
+    }
+  },
+  {
+    "model": "devdb.developer",
+    "pk": 4,
+    "fields": {
+      "first_name": "Barry",
+      "last_name": "Warsaw",
+      "joined": "1994-07-25"
+    }
+  },
+  {
+    "model": "devdb.developer",
+    "pk": 6,
+    "fields": {
+      "first_name": "Mariatta",
+      "last_name": "",
+      "joined": "2017-01-27"
+    }
+  },
+  {
+    "model": "devdb.developer",
+    "pk": 7,
+    "fields": {
+      "first_name": "Łukasz",
+      "last_name": "Langa",
+      "joined": "2010-09-08"
+    }
+  }
+]
